@@ -13,5 +13,35 @@
     "candidato": "Luis Abinader",
     "foto": "C:\\encuestafront\\web\\pic\\luis.jpeg",
     "votos": 8
+  },
+  {
+    "candidato": "Miguel Vargas",
+    "foto": "C:\\encuestafront\\web\\pic\\miguel.jpeg",
+    "votos": null
+  },
+  {
+    "candidato": "Maria Teresa",
+    "foto": "C:\\encuestafront\\web\\pic\\maria.jpeg",
+    "votos": null
+  },
+  {
+    "candidato": "Fulgencio Severino",
+    "foto": "C:\\encuestafront\\web\\pic\\fulgencio.jpeg",
+    "votos": null
+  },
+  {
+    "candidato": "Carlos Peña",
+    "foto": "C:\\encuestafront\\web\\pic\\carlos.jpg",
+    "votos": null
+  },
+  {
+    "candidato": "Virginia Antares",
+    "foto": "C:\\encuestafront\\web\\pic\\virginia.jpg",
+    "votos": null
+  },
+  {
+    "candidato": "Roque Espaillat",
+    "foto": "C:\\encuestafront\\web\\pic\\roque.jpg",
+    "votos": null
   }
 ]
