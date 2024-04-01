@@ -2,46 +2,55 @@
   {
     "candidato": "Abel Martínez",
     "foto": "C:\\encuestafront\\web\\pic\\abel.jpeg",
-    "votos": 2
+    "votos": 2,
+    "id": 2
   },
   {
     "candidato": "Leonel Fernandez",
     "foto": "C:\\encuestafront\\web\\pic\\leonel.jpeg",
-    "votos": 1
+    "votos": 1,
+    "id": 3
   },
   {
     "candidato": "Luis Abinader",
     "foto": "C:\\encuestafront\\web\\pic\\luis.jpeg",
-    "votos": 8
+    "votos": 8,
+    "id": 1
   },
   {
     "candidato": "Miguel Vargas",
     "foto": "C:\\encuestafront\\web\\pic\\miguel.jpeg",
-    "votos": 0
+    "votos": 0,
+    "id": 4
   },
   {
     "candidato": "Maria Teresa",
     "foto": "C:\\encuestafront\\web\\pic\\maria.jpeg",
-    "votos": 0
+    "votos": 0,
+    "id": 5
   },
   {
     "candidato": "Fulgencio Severino",
     "foto": "C:\\encuestafront\\web\\pic\\fulgencio.jpeg",
-    "votos": 0
+    "votos": 0,
+    "id": 6
   },
   {
     "candidato": "Carlos Peña",
     "foto": "C:\\encuestafront\\web\\pic\\carlos.jpg",
-    "votos": 0
+    "votos": 0,
+    "id": 7
   },
   {
     "candidato": "Virginia Antares",
     "foto": "C:\\encuestafront\\web\\pic\\virginia.jpg",
-    "votos": 1
+    "votos": 1,
+    "id": 8
   },
   {
     "candidato": "Roque Espaillat",
     "foto": "C:\\encuestafront\\web\\pic\\roque.jpg",
-    "votos": 0
+    "votos": 0,
+    "id": 9
   }
 ]
