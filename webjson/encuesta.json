@@ -1,5 +1,11 @@
 [
   {
+    "candidato": "Luis Abinader",
+    "foto": "C:\\encuestafront\\web\\pic\\luis.jpeg",
+    "votos": 8,
+    "id": 1
+  },
+  {
     "candidato": "Abel Martínez",
     "foto": "C:\\encuestafront\\web\\pic\\abel.jpeg",
     "votos": 2,
@@ -10,12 +16,6 @@
     "foto": "C:\\encuestafront\\web\\pic\\leonel.jpeg",
     "votos": 1,
     "id": 3
-  },
-  {
-    "candidato": "Luis Abinader",
-    "foto": "C:\\encuestafront\\web\\pic\\luis.jpeg",
-    "votos": 8,
-    "id": 1
   },
   {
     "candidato": "Miguel Vargas",
