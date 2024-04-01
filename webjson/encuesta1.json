@@ -1,1 +1,17 @@
-WwogIHsKICAgICJjYW5kaWRhdG8iOiAiTHVpcyBBYmluYWRlciIsCiAgICAiZm90byI6ICJDOlxcZW5jdWVzdGFmcm9udFxcd2ViXFxwaWNcXGx1aXMuanBlZyIsCiAgICAidm90b3MiOiA2CiAgfSwKICB7CiAgICAiY2FuZGlkYXRvIjogIkFiZWwgTWFydMOtbmV6IiwKICAgICJmb3RvIjogIkM6XFxlbmN1ZXN0YWZyb250XFx3ZWJcXHBpY1xcYWJlbC5qcGVnIiwKICAgICJ2b3RvcyI6IDMKICB9LAogIHsKICAgICJjYW5kaWRhdG8iOiAiTGVvbmVsIEZlcm5hbmRleiIsCiAgICAiZm90byI6ICJDOlxcZW5jdWVzdGFmcm9udFxcd2ViXFxwaWNcXGxlb25lbC5qcGVnIiwKICAgICJ2b3RvcyI6IDEKICB9Cl0=
+[
+  {
+    "candidato": "Luis Abinader",
+    "foto": "C:\\encuestafront\\web\\pic\\luis.jpeg",
+    "votos": 6
+  },
+  {
+    "candidato": "Abel Martínez",
+    "foto": "C:\\encuestafront\\web\\pic\\abel.jpeg",
+    "votos": 3
+  },
+  {
+    "candidato": "Leonel Fernandez",
+    "foto": "C:\\encuestafront\\web\\pic\\leonel.jpeg",
+    "votos": 1
+  }
+]
