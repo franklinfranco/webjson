@@ -8,13 +8,13 @@
   {
     "candidato": "Abel Martínez",
     "foto": "C:\\encuestafront\\web\\pic\\abel.jpeg",
-    "votos": 0,
+    "votos": 1,
     "id": 2
   },
   {
     "candidato": "Leonel Fdez",
     "foto": "C:\\encuestafront\\web\\pic\\leonel.jpeg",
-    "votos": 10,
+    "votos": 11,
     "id": 3
   },
   {
