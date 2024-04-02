@@ -1,56 +1,38 @@
 [
   {
-    "candidato": "Luis Abinader",
-    "foto": "C:\\encuestafront\\web\\pic\\luis.jpeg",
-    "votos": 263,
+    "candidato": "Daniel Rivera",
+    "foto": "C:\\encuestafront\\web\\pic\\daniel.jpeg",
+    "votos": 0,
     "id": 1
   },
   {
-    "candidato": "Abel Martínez",
-    "foto": "C:\\encuestafront\\web\\pic\\abel.jpeg",
-    "votos": 51,
+    "candidato": "Marino Collante",
+    "foto": "C:\\encuestafront\\web\\pic\\marino.jpeg",
+    "votos": 0,
     "id": 2
   },
   {
-    "candidato": "Leonel Fdez",
-    "foto": "C:\\encuestafront\\web\\pic\\leonel.jpeg",
-    "votos": 77,
+    "candidato": "Demosthenes Martinez",
+    "foto": "C:\\encuestafront\\web\\pic\\demosthene.jpeg",
+    "votos": 0,
     "id": 3
   },
   {
-    "candidato": "Miguel Vargas",
-    "foto": "C:\\encuestafront\\web\\pic\\miguel.jpeg",
-    "votos": 2,
+    "candidato": "Anthony Mota",
+    "foto": "C:\\encuestafront\\web\\pic\\anthony.jpeg",
+    "votos": 0,
     "id": 4
   },
   {
-    "candidato": "Maria Teresa",
-    "foto": "C:\\encuestafront\\web\\pic\\maria.jpeg",
-    "votos": 1,
+    "candidato": "Santiago Abreu",
+    "foto": "C:\\encuestafront\\web\\pic\\santiago.png",
+    "votos": 0,
     "id": 5
   },
   {
-    "candidato": "Fulgencio Severino",
-    "foto": "C:\\encuestafront\\web\\pic\\fulgencio.jpeg",
-    "votos": 1,
-    "id": 6
-  },
-  {
-    "candidato": "Carlos Peña",
-    "foto": "C:\\encuestafront\\web\\pic\\carlos.jpg",
+    "candidato": "Tony Turbi",
+    "foto": "C:\\encuestafront\\web\\pic\\tony.jpeg",
     "votos": 0,
-    "id": 7
-  },
-  {
-    "candidato": "Virginia Antares",
-    "foto": "C:\\encuestafront\\web\\pic\\virginia.jpg",
-    "votos": 1,
-    "id": 8
-  },
-  {
-    "candidato": "Roque Espaillat",
-    "foto": "C:\\encuestafront\\web\\pic\\roque.jpg",
-    "votos": 7,
-    "id": 9
+    "id": 6
   }
 ]
