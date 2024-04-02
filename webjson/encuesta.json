@@ -2,13 +2,13 @@
   {
     "candidato": "Luis Abinader",
     "foto": "C:\\encuestafront\\web\\pic\\luis.jpeg",
-    "votos": 93,
+    "votos": 95,
     "id": 1
   },
   {
     "candidato": "Abel Martínez",
     "foto": "C:\\encuestafront\\web\\pic\\abel.jpeg",
-    "votos": 10,
+    "votos": 11,
     "id": 2
   },
   {
@@ -50,7 +50,7 @@
   {
     "candidato": "Roque Espaillat",
     "foto": "C:\\encuestafront\\web\\pic\\roque.jpg",
-    "votos": 0,
+    "votos": 1,
     "id": 9
   }
 ]
