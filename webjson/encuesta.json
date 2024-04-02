@@ -2,19 +2,19 @@
   {
     "candidato": "Luis Abinader",
     "foto": "C:\\encuestafront\\web\\pic\\luis.jpeg",
-    "votos": 8,
+    "votos": 0,
     "id": 1
   },
   {
     "candidato": "Abel Martínez",
     "foto": "C:\\encuestafront\\web\\pic\\abel.jpeg",
-    "votos": 2,
+    "votos": 0,
     "id": 2
   },
   {
     "candidato": "Leonel Fdez",
     "foto": "C:\\encuestafront\\web\\pic\\leonel.jpeg",
-    "votos": 1,
+    "votos": 0,
     "id": 3
   },
   {
@@ -26,7 +26,7 @@
   {
     "candidato": "Maria Teresa",
     "foto": "C:\\encuestafront\\web\\pic\\maria.jpeg",
-    "votos": 2,
+    "votos": 0,
     "id": 5
   },
   {
@@ -44,7 +44,7 @@
   {
     "candidato": "Virginia Antares",
     "foto": "C:\\encuestafront\\web\\pic\\virginia.jpg",
-    "votos": 1,
+    "votos": 0,
     "id": 8
   },
   {
