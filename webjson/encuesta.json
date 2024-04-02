@@ -2,7 +2,7 @@
   {
     "candidato": "Luis Abinader",
     "foto": "C:\\encuestafront\\web\\pic\\luis.jpeg",
-    "votos": 134,
+    "votos": 135,
     "id": 1
   },
   {
@@ -14,7 +14,7 @@
   {
     "candidato": "Leonel Fdez",
     "foto": "C:\\encuestafront\\web\\pic\\leonel.jpeg",
-    "votos": 50,
+    "votos": 51,
     "id": 3
   },
   {
@@ -50,7 +50,7 @@
   {
     "candidato": "Roque Espaillat",
     "foto": "C:\\encuestafront\\web\\pic\\roque.jpg",
-    "votos": 1,
+    "votos": 2,
     "id": 9
   }
 ]
