@@ -2,7 +2,7 @@
   {
     "candidato": "Daniel Rivera",
     "foto": "C:/encuestafront/web/pic/daniel.jpeg",
-    "votos": 16,
+    "votos": 17,
     "id": 1
   },
   {
@@ -32,7 +32,7 @@
   {
     "candidato": "Tony Turbi",
     "foto": "C:/encuestafront/web/pic/tony.jpeg",
-    "votos": 0,
+    "votos": 1,
     "id": 6
   }
 ]
