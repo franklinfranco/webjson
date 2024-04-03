@@ -2,13 +2,13 @@
   {
     "candidato": "Daniel Rivera",
     "foto": "C:/encuestafront/web/pic/daniel.jpeg",
-    "votos": 23,
+    "votos": 26,
     "id": 1
   },
   {
     "candidato": "Marino Collante",
     "foto": "C:/encuestafront/web/pic/marino.jpeg",
-    "votos": 11,
+    "votos": 12,
     "id": 2
   },
   {
@@ -32,7 +32,7 @@
   {
     "candidato": "Tony Turbi",
     "foto": "C:/encuestafront/web/pic/tony.jpeg",
-    "votos": 2,
+    "votos": 3,
     "id": 6
   }
 ]
