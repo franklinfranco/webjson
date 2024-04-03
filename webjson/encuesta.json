@@ -7,13 +7,13 @@
   },
   {
     "candidato": "Marino Collante",
-    "foto": "C:\\encuestafront\\web\\pic\\marino.jpeg",
-    "votos": 0,
+    "foto": "C:/encuestafront/web/pic/marino.jpeg",
+    "votos": 1,
     "id": 2
   },
   {
     "candidato": "Demostenes Martinez",
-    "foto": "C:\\encuestafront\\web\\pic\\demosthene.jpeg",
+    "foto": "C:/encuestafront/web/pic/demosthene.jpeg",
     "votos": 0,
     "id": 3
   },
