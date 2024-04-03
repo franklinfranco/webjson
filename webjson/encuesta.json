@@ -1,38 +1,32 @@
 [
   {
-    "candidato": "Daniel Rivera",
-    "foto": "C:/encuestafront/web/pic/daniel.jpeg",
-    "votos": 100,
+    "candidato": "MEJOR",
+    "foto": null,
+    "votos": 0,
     "id": 1
   },
   {
-    "candidato": "Marino Collante",
-    "foto": "C:/encuestafront/web/pic/marino.jpeg",
-    "votos": 19,
+    "candidato": "BIEN",
+    "foto": null,
+    "votos": 0,
     "id": 2
   },
   {
-    "candidato": "Demostenes Martinez",
-    "foto": "C:/encuestafront/web/pic/demosthene.jpeg",
-    "votos": 23,
+    "candidato": "REGULAR",
+    "foto": null,
+    "votos": 0,
     "id": 3
   },
   {
-    "candidato": "Anthony Mota",
-    "foto": "C:/encuestafront/web/pic/anthony.jpeg",
+    "candidato": "MALA",
+    "foto": null,
     "votos": 0,
     "id": 4
   },
   {
-    "candidato": "Santiago Abreu",
-    "foto": "C:/encuestafront/web/pic/santiago.png",
+    "candidato": "PEOR",
+    "foto": null,
     "votos": 0,
     "id": 5
-  },
-  {
-    "candidato": "Tony Turbi",
-    "foto": "C:/encuestafront/web/pic/tony.jpeg",
-    "votos": 6,
-    "id": 6
   }
 ]
