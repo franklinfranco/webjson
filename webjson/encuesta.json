@@ -19,19 +19,19 @@
   },
   {
     "candidato": "Anthony Mota",
-    "foto": "C:\\encuestafront\\web\\pic\\anthony.jpeg",
+    "foto": "C:/encuestafront/web/pic/anthony.jpeg",
     "votos": 0,
     "id": 4
   },
   {
     "candidato": "Santiago Abreu",
-    "foto": "C:\\encuestafront\\web\\pic\\santiago.png",
+    "foto": "C:/encuestafront/web/pic/santiago.png",
     "votos": 0,
     "id": 5
   },
   {
     "candidato": "Tony Turbi",
-    "foto": "C:\\encuestafront\\web\\pic\\tony.jpeg",
+    "foto": "C:/encuestafront/web/pic/tony.jpeg",
     "votos": 0,
     "id": 6
   }
