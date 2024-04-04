@@ -8,13 +8,13 @@
   {
     "candidato": "BIEN",
     "foto": null,
-    "votos": 8,
+    "votos": 9,
     "id": 2
   },
   {
     "candidato": "REGULAR",
     "foto": null,
-    "votos": 6,
+    "votos": 7,
     "id": 3
   },
   {
@@ -26,7 +26,7 @@
   {
     "candidato": "PEOR",
     "foto": null,
-    "votos": 21,
+    "votos": 22,
     "id": 5
   }
 ]
