@@ -14,19 +14,19 @@
   {
     "candidato": "REGULAR",
     "foto": null,
-    "votos": 13,
+    "votos": 14,
     "id": 3
   },
   {
     "candidato": "MALA",
     "foto": null,
-    "votos": 13,
+    "votos": 14,
     "id": 4
   },
   {
     "candidato": "PEOR",
     "foto": null,
-    "votos": 186,
+    "votos": 190,
     "id": 5
   }
 ]
