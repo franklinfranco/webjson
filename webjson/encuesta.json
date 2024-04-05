@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "candidato": "RAQUEL PEÑA",
+    "foto": null,
+    "votos": 1,
+    "id": 1
+  },
+  {
+    "candidato": "ZORAIMA CUELLO",
+    "foto": null,
+    "votos": 0,
+    "id": 2
+  },
+  {
+    "candidato": "INGRID MENDOZA",
+    "foto": null,
+    "votos": 0,
+    "id": 3
+  },
+  {
+    "candidato": "JOEL DIAZ",
+    "foto": null,
+    "votos": 0,
+    "id": 4
+  },
+  {
+    "candidato": "JESUS DIAZ",
+    "foto": null,
+    "votos": 0,
+    "id": 5
+  },
+  {
+    "candidato": "ICO ABREU",
+    "foto": null,
+    "votos": 0,
+    "id": 6
+  },
+  {
+    "candidato": "ERNESTO FADUL",
+    "foto": null,
+    "votos": 0,
+    "id": 7
+  },
+  {
+    "candidato": "NIKAULY DE LA MOTA",
+    "foto": null,
+    "votos": 0,
+    "id": 8
+  },
+  {
+    "candidato": "FRANCISCA PEGUERO",
+    "foto": null,
+    "votos": 0,
+    "id": 9
+  }
+]
