@@ -1,32 +1,56 @@
 [
   {
-    "candidato": "MEJOR",
+    "candidato": "Raquel Peña",
     "foto": null,
-    "votos": 31,
+    "votos": 0,
     "id": 1
   },
   {
-    "candidato": "BIEN",
+    "candidato": "Zoraima Cuello",
     "foto": null,
-    "votos": 14,
+    "votos": 0,
     "id": 2
   },
   {
-    "candidato": "REGULAR",
+    "candidato": "Ingrid Mendoza",
     "foto": null,
-    "votos": 14,
+    "votos": 0,
     "id": 3
   },
   {
-    "candidato": "MALA",
+    "candidato": "Joel Díaz",
     "foto": null,
-    "votos": 14,
+    "votos": 0,
     "id": 4
   },
   {
-    "candidato": "PEOR",
+    "candidato": "Jesús Díaz",
     "foto": null,
-    "votos": 214,
+    "votos": 0,
     "id": 5
+  },
+  {
+    "candidato": "Ico Abreu",
+    "foto": null,
+    "votos": 0,
+    "id": 6
+  },
+  {
+    "candidato": "Ernesto Fadul",
+    "foto": null,
+    "votos": 0,
+    "id": 7
+  },
+  {
+    "candidato": "Nikauly de la Mota",
+    "foto": null,
+    "votos": 0,
+    "id": 8
+  },
+  {
+    "candidato": "Francisca Peguero",
+    "foto": null,
+    "votos": 0,
+    "id": 9
   }
 ]
