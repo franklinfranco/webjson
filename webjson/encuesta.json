@@ -2,13 +2,13 @@
   {
     "candidato": "EXCELENTE",
     "foto": null,
-    "votos": 12,
+    "votos": 13,
     "id": 1
   },
   {
     "candidato": "BUENA",
     "foto": null,
-    "votos": 11,
+    "votos": 12,
     "id": 2
   },
   {
@@ -20,7 +20,7 @@
   {
     "candidato": "MALA",
     "foto": null,
-    "votos": 19,
+    "votos": 21,
     "id": 4
   }
 ]
