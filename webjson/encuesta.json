@@ -1,56 +1,26 @@
 [
   {
-    "candidato": "RAQUEL PEÑA",
+    "candidato": "EXCELENTE",
     "foto": null,
-    "votos": 181,
+    "votos": 0,
     "id": 1
   },
   {
-    "candidato": "ZORAIMA CUELLO",
+    "candidato": "BUENA",
     "foto": null,
-    "votos": 36,
+    "votos": 0,
     "id": 2
   },
   {
-    "candidato": "INGRID MENDOZA",
+    "candidato": "REGULAR",
     "foto": null,
-    "votos": 18,
+    "votos": 0,
     "id": 3
   },
   {
-    "candidato": "JOEL DIAZ",
+    "candidato": "MALA",
     "foto": null,
-    "votos": 1,
+    "votos": 0,
     "id": 4
-  },
-  {
-    "candidato": "JESUS DIAZ",
-    "foto": null,
-    "votos": 0,
-    "id": 5
-  },
-  {
-    "candidato": "ICO ABREU",
-    "foto": null,
-    "votos": 0,
-    "id": 6
-  },
-  {
-    "candidato": "ERNESTO FADUL",
-    "foto": null,
-    "votos": 2,
-    "id": 7
-  },
-  {
-    "candidato": "NIKAULY DE LA MOTA",
-    "foto": null,
-    "votos": 1,
-    "id": 8
-  },
-  {
-    "candidato": "FRANCISCA PEGUERO",
-    "foto": null,
-    "votos": 0,
-    "id": 9
   }
 ]
