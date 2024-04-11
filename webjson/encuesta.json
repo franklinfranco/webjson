@@ -1,0 +1,14 @@
+[
+  {
+    "candidato": "SI",
+    "foto": null,
+    "votos": 226,
+    "id": 1
+  },
+  {
+    "candidato": "NO",
+    "foto": null,
+    "votos": 1,
+    "id": 2
+  }
+]
