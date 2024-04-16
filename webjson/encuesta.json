@@ -2,13 +2,13 @@
   {
     "candidato": "SI",
     "foto": null,
-    "votos": 38,
+    "votos": 39,
     "id": 1
   },
   {
     "candidato": "NO",
     "foto": null,
-    "votos": 10,
+    "votos": 12,
     "id": 2
   }
 ]
